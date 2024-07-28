@@ -2,3 +2,4 @@ streamlit
 pandasai
 python-dotenv
 pandas
+numpy
